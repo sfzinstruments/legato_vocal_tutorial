@@ -1,0 +1,32 @@
+<group>
+sw_last=24
+sw_label=A
+#include "modules/vowel_transition_a.sfz"
+<group>
+sw_last=25
+sw_label=3
+#include "modules/vowel_transition_3.sfz"
+<group>
+sw_last=26
+sw_label=E
+#include "modules/vowel_transition_e.sfz"
+<group>
+sw_last=27
+sw_label=I
+#include "modules/vowel_transition_i.sfz"
+<group>
+sw_last=28
+sw_label=Or
+#include "modules/vowel_transition_or.sfz"
+<group>
+sw_last=29
+sw_label=O
+#include "modules/vowel_transition_o.sfz"
+<group>
+sw_last=30
+sw_label=U
+#include "modules/vowel_transition_u.sfz"
+<group>
+sw_last=31
+sw_label=M
+#include "modules/vowel_transition_m.sfz"

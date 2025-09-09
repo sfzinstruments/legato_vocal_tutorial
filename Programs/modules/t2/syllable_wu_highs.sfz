@@ -1,0 +1,124 @@
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 1_C#5.wav
+lokey=71
+hikey=71
+seq_length=4
+pitch_keycenter=73
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 2_C#5.wav
+lokey=71
+hikey=71
+seq_length=4
+seq_position=2
+pitch_keycenter=73
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 3_C#5.wav
+lokey=71
+hikey=71
+seq_length=4
+seq_position=3
+pitch_keycenter=73
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 4_C#5.wav
+lokey=71
+hikey=71
+seq_length=4
+seq_position=4
+pitch_keycenter=73
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 1_D 5.wav
+lokey=72
+hikey=72
+seq_length=4
+pitch_keycenter=74
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 2_D 5.wav
+lokey=72
+hikey=72
+seq_length=4
+seq_position=2
+pitch_keycenter=74
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 3_D 5.wav
+lokey=72
+hikey=72
+seq_length=4
+seq_position=3
+pitch_keycenter=74
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 4_D 5.wav
+lokey=72
+hikey=72
+seq_length=4
+seq_position=4
+pitch_keycenter=74
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 1_C 5.wav
+lokey=73
+hikey=73
+seq_length=4
+pitch_keycenter=72
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 2_C 5.wav
+lokey=73
+hikey=73
+seq_length=4
+seq_position=2
+pitch_keycenter=72
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 3_C 5.wav
+lokey=73
+hikey=73
+seq_length=4
+seq_position=3
+pitch_keycenter=72
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 4_C 5.wav
+lokey=73
+hikey=73
+seq_length=4
+seq_position=4
+pitch_keycenter=72
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 1_C#5.wav
+lokey=74
+hikey=74
+seq_length=4
+pitch_keycenter=73
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 2_C#5.wav
+lokey=74
+hikey=74
+seq_length=4
+seq_position=2
+pitch_keycenter=73
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 3_C#5.wav
+lokey=74
+hikey=74
+seq_length=4
+seq_position=3
+pitch_keycenter=73
+
+<region>
+sample=../Samples/syllables/wu/Male Syllables_Wu 4_C#5.wav
+lokey=74
+hikey=74
+seq_length=4
+seq_position=4
+pitch_keycenter=73

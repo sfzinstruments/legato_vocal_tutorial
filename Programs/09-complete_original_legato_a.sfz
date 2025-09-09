@@ -1,0 +1,317 @@
+<control>
+label_cc1=Dynamics
+label_cc21=Vibrato Depth
+label_cc22=Tremolo Depth
+label_cc31=Width
+label_cc100=Unison Vol
+label_cc101=Unison Width
+label_cc105=Mono Switch
+label_cc106=Attack
+label_cc107=Release
+label_cc112=Vibrato Speed
+label_cc115=Vibrato Delay
+label_cc116=Vibrato Fade
+label_cc117=Humanize
+set_cc1=63.5
+set_cc31=127
+set_cc101=127
+set_cc105=127
+set_cc107=13
+set_cc112=50
+set_cc115=45
+set_cc116=45
+set_cc117=32
+
+<global>
+#include "modules/controls/common.sfz"
+#include "modules/controls/dyn_eq.sfz"
+
+
+//Center voice, poly
+<master>
+hicc105=63 amplitude=80
+hicc106=0
+ampeg_attack=0.05
+ampeg_delay=0.05
+#include "modules/controls/vibrato.sfz"
+#include "modules/vowel_sustain_a.sfz"
+#include "modules/vowel_sustain_a_lows.sfz"
+<master>
+hicc105=63 amplitude=80
+hicc106=0
+ampeg_sustain=0
+ampeg_hold=0.05
+ampeg_decay=0.1
+#include "modules/vowel_short_a.sfz"
+#include "modules/vowel_short_a_lows.sfz"
+<master>
+hicc105=63 amplitude=80
+ampeg_attack_oncc106=1
+locc106=1
+#include "modules/controls/vibrato.sfz"
+#include "modules/vowel_sustain_a.sfz"
+#include "modules/vowel_sustain_a_lows.sfz"
+
+//Center voice, mono
+<master>
+locc105=64
+trigger=first
+group=1
+off_by=1
+hicc106=0
+ampeg_attack=0.05
+ampeg_delay=0.05
+#include "modules/controls/vibrato.sfz"
+#include "modules/vowel_sustain_a.sfz"
+#include "modules/vowel_sustain_a_lows.sfz"
+<master>
+locc105=64
+trigger=first
+group=7
+off_by=7
+hicc106=0
+ampeg_sustain=0
+ampeg_hold=0.05
+ampeg_decay=0.1
+#include "modules/vowel_short_a.sfz"
+#include "modules/vowel_short_a_lows.sfz"
+<master>
+locc105=64
+trigger=first
+group=1
+off_by=1
+locc106=1
+ampeg_attack_oncc106=1
+#include "modules/controls/vibrato.sfz"
+#include "modules/vowel_sustain_a.sfz"
+#include "modules/vowel_sustain_a_lows.sfz"
+<master>
+locc105=64
+trigger=legato
+group=1
+off_by=1
+ampeg_attack=0.1
+ampeg_hold=0.2
+ampeg_decay=0.4
+ampeg_sustain=0
+offset=3000
+#include "modules/vowel_transition_a.sfz"
+#include "modules/vowel_transition_a_lows.sfz"
+
+<master>
+locc105=64
+trigger=legato
+group=2
+off_by=1
+delay=0.2
+ampeg_attack=0.2
+offset=44000
+#include "modules/controls/vibrato.sfz"
+#include "modules/vowel_sustain_a.sfz"
+#include "modules/vowel_sustain_a_lows.sfz"
+
+
+//Left voice, poly
+<master>
+pan_oncc101=-100
+hicc105=63 amplitude=80
+locc100=1 amplitude_oncc100=100
+hicc106=0
+ampeg_attack=0.05
+ampeg_delay=0.05
+#include "modules/controls/t1_vibrato.sfz"
+#include "modules/t1/vowel_sustain_a.sfz"
+#include "modules/t1/vowel_sustain_a_lows.sfz"
+<master>
+pan_oncc101=-100
+hicc105=63 amplitude=80
+locc100=1 amplitude_oncc100=100
+hicc106=0
+ampeg_sustain=0
+ampeg_hold=0.05
+ampeg_decay=0.1
+#include "modules/t1/vowel_short_a.sfz"
+#include "modules/t1/vowel_short_a_lows.sfz"
+<master>
+pan_oncc101=-100
+hicc105=63 amplitude=80
+locc100=1 amplitude_oncc100=100
+locc106=1
+ampeg_attack_oncc106=1
+#include "modules/controls/t1_vibrato.sfz"
+#include "modules/t1/vowel_sustain_a.sfz"
+#include "modules/t1/vowel_sustain_a_lows.sfz"
+
+//Left voice, mono
+<master>
+pan_oncc101=-100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=first
+group=3
+off_by=3
+locc106=1
+ampeg_attack_oncc106=1
+#include "modules/controls/t1_vibrato.sfz"
+#include "modules/t1/vowel_sustain_a.sfz"
+#include "modules/t1/vowel_sustain_a_lows.sfz"
+<master>
+pan_oncc101=-100
+locc105=64
+locc100=1 amplitude_oncc100=100
+hicc106=0
+ampeg_sustain=0
+ampeg_hold=0.05
+ampeg_decay=0.1
+trigger=first
+group=8
+off_by=8
+#include "modules/t1/vowel_short_a.sfz"
+#include "modules/t1/vowel_short_a_lows.sfz"
+<master>
+pan_oncc101=-100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=first
+group=3
+off_by=3
+hicc106=0
+ampeg_attack=0.05
+ampeg_delay=0.05
+#include "modules/controls/t1_vibrato.sfz"
+#include "modules/t1/vowel_sustain_a.sfz"
+#include "modules/t1/vowel_sustain_a_lows.sfz"
+
+<master>
+pan_oncc101=-100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=legato
+group=3
+off_by=3
+ampeg_attack=0.1
+ampeg_hold=0.2
+ampeg_decay=0.4
+ampeg_sustain=0
+offset=3000
+#include "modules/t1/vowel_transition_a.sfz"
+#include "modules/t1/vowel_transition_a_lows.sfz"
+
+<master>
+pan_oncc101=-100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=legato
+group=4
+off_by=3
+delay=0.2
+ampeg_attack=0.2
+offset=44000
+#include "modules/controls/t1_vibrato.sfz"
+#include "modules/t1/vowel_sustain_a.sfz"
+#include "modules/t1/vowel_sustain_a_lows.sfz"
+
+
+//Right voice, poly
+<master>
+pan_oncc101=100
+hicc105=63 amplitude=80
+locc100=1 amplitude_oncc100=100
+hicc106=0
+ampeg_attack=0.05
+ampeg_delay=0.05
+#include "modules/controls/t2_vibrato.sfz"
+#include "modules/t2/vowel_sustain_a.sfz"
+#include "modules/t2/vowel_sustain_a_lows.sfz"
+<master>
+pan_oncc101=-100
+hicc105=63 amplitude=80
+locc100=1 amplitude_oncc100=100
+hicc106=0
+ampeg_sustain=0
+ampeg_hold=0.05
+ampeg_decay=0.1
+#include "modules/t2/vowel_short_a.sfz"
+#include "modules/t2/vowel_short_a_lows.sfz"
+<master>
+pan_oncc101=100
+hicc105=63 amplitude=80
+locc100=1 amplitude_oncc100=100
+locc106=1
+ampeg_attack_oncc106=1
+#include "modules/controls/t2_vibrato.sfz"
+#include "modules/t2/vowel_sustain_a.sfz"
+#include "modules/t2/vowel_sustain_a_lows.sfz"
+
+//Right voice, mono
+<master>
+pan_oncc101=100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=first
+group=5
+off_by=5
+locc106=1
+ampeg_attack_oncc106=1
+#include "modules/controls/t2_vibrato.sfz"
+#include "modules/t2/vowel_sustain_a.sfz"
+#include "modules/t2/vowel_sustain_a_lows.sfz"
+<master>
+pan_oncc101=100
+locc105=64
+locc100=1 amplitude_oncc100=100
+hicc106=0
+ampeg_sustain=0
+ampeg_hold=0.05
+ampeg_decay=0.1
+trigger=first
+group=9
+off_by=9
+#include "modules/t2/vowel_short_a.sfz"
+#include "modules/t2/vowel_short_a_lows.sfz"
+<master>
+pan_oncc101=100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=first
+group=5
+off_by=5
+hicc106=0
+ampeg_attack=0.05
+ampeg_delay=0.05
+#include "modules/controls/t2_vibrato.sfz"
+#include "modules/t2/vowel_sustain_a.sfz"
+#include "modules/t2/vowel_sustain_a_lows.sfz"
+
+
+<master>
+pan_oncc101=100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=legato
+group=5
+off_by=5
+ampeg_attack=0.1
+ampeg_hold=0.2
+ampeg_decay=0.4
+ampeg_sustain=0
+offset=3000
+#include "modules/t2/vowel_transition_a.sfz"
+#include "modules/t2/vowel_transition_a_lows.sfz"
+
+<master>
+pan_oncc101=100
+locc105=64
+locc100=1 amplitude_oncc100=100
+trigger=legato
+group=6
+off_by=5
+delay=0.2
+ampeg_attack=0.2
+offset=44000
+#include "modules/controls/t2_vibrato.sfz"
+#include "modules/t2/vowel_sustain_a.sfz"
+#include "modules/t2/vowel_sustain_a_lows.sfz"
+
+
+#include "modules/controls/curves.sfz"

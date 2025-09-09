@@ -1,0 +1,60 @@
+<group>
+sw_last=32
+sw_label=Dzi
+#include "modules/t2/vowel_transition_i.sfz"
+<group>
+sw_last=33
+sw_label=Dzo
+#include "modules/t2/vowel_transition_o.sfz"
+<group>
+sw_last=34
+sw_label=Jei
+#include "modules/t2/vowel_transition_i.sfz"
+<group>
+sw_last=35
+sw_label=Ku
+#include "modules/t2/vowel_transition_u.sfz"
+<group>
+sw_last=36
+sw_label=Na
+#include "modules/t2/vowel_transition_a.sfz"
+<group>
+sw_last=37
+sw_label=Nu
+#include "modules/t2/vowel_transition_u.sfz"
+<group>
+sw_last=38
+sw_label=Si
+#include "modules/t2/vowel_transition_i.sfz"
+<group>
+sw_last=39
+sw_label=Ta
+#include "modules/t2/vowel_transition_a.sfz"
+<group>
+sw_last=40
+sw_label=Tso
+#include "modules/t2/vowel_transition_o.sfz"
+<group>
+sw_last=41
+sw_label=Wo
+#include "modules/t2/vowel_transition_o.sfz"
+<group>
+sw_last=42
+sw_label=Wu
+#include "modules/t2/vowel_transition_u.sfz"
+<group>
+sw_last=43
+sw_label=Ya
+#include "modules/t2/vowel_transition_a.sfz"
+<group>
+sw_last=44
+sw_label=Ye
+#include "modules/t2/vowel_transition_e.sfz"
+<group>
+sw_last=45
+sw_label=Yeah
+#include "modules/t2/vowel_transition_3.sfz"
+<group>
+sw_last=46
+sw_label=Zui
+#include "modules/t2/vowel_transition_i.sfz"

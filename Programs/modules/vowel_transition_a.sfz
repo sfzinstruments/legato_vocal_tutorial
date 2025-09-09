@@ -1,0 +1,1726 @@
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromd3.wav
+sw_previous=50 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromd3.wav
+sw_previous=50 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromd3.wav
+sw_previous=50 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromd3.wav
+sw_previous=50 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromd3.wav
+sw_previous=50 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromd3.wav
+sw_previous=50 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromd3.wav
+sw_previous=50 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromd3.wav
+sw_previous=50 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromd3.wav
+sw_previous=50 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromd3.wav
+sw_previous=50 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromd3.wav
+sw_previous=50 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromd3.wav
+sw_previous=50 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromeb3.wav
+sw_previous=50 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_frome3.wav
+sw_previous=50 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromf3.wav
+sw_previous=50 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromgb3.wav
+sw_previous=50 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromg3.wav
+sw_previous=50 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromab3.wav
+sw_previous=50 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=50 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=50 key=70
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromeb3.wav
+sw_previous=51 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromeb3.wav
+sw_previous=51 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromeb3.wav
+sw_previous=51 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromeb3.wav
+sw_previous=51 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromeb3.wav
+sw_previous=51 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromeb3.wav
+sw_previous=51 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromeb3.wav
+sw_previous=51 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromeb3.wav
+sw_previous=51 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromeb3.wav
+sw_previous=51 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromeb3.wav
+sw_previous=51 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromeb3.wav
+sw_previous=51 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromeb3.wav
+sw_previous=51 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromeb3.wav
+sw_previous=51 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_frome3.wav
+sw_previous=51 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromf3.wav
+sw_previous=51 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromgb3.wav
+sw_previous=51 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromg3.wav
+sw_previous=51 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromab3.wav
+sw_previous=51 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=51 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=51 key=70
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_frome3.wav
+sw_previous=52 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_frome3.wav
+sw_previous=52 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_frome3.wav
+sw_previous=52 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_frome3.wav
+sw_previous=52 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_frome3.wav
+sw_previous=52 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_frome3.wav
+sw_previous=52 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_frome3.wav
+sw_previous=52 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_frome3.wav
+sw_previous=52 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_frome3.wav
+sw_previous=52 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_frome3.wav
+sw_previous=52 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_frome3.wav
+sw_previous=52 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_frome3.wav
+sw_previous=52 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_frome3.wav
+sw_previous=52 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_frome3.wav
+sw_previous=52 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromf3.wav
+sw_previous=52 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromgb3.wav
+sw_previous=52 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromg3.wav
+sw_previous=52 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromab3.wav
+sw_previous=52 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=52 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=52 key=70
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromf3.wav
+sw_previous=53 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromf3.wav
+sw_previous=53 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromf3.wav
+sw_previous=53 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromf3.wav
+sw_previous=53 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromf3.wav
+sw_previous=53 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromf3.wav
+sw_previous=53 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromf3.wav
+sw_previous=53 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromf3.wav
+sw_previous=53 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromf3.wav
+sw_previous=53 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromf3.wav
+sw_previous=53 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromf3.wav
+sw_previous=53 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromf3.wav
+sw_previous=53 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromf3.wav
+sw_previous=53 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromf3.wav
+sw_previous=53 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromf3.wav
+sw_previous=53 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromgb3.wav
+sw_previous=53 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromg3.wav
+sw_previous=53 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromab3.wav
+sw_previous=53 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=53 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=53 key=70
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromgb3.wav
+sw_previous=54 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromgb3.wav
+sw_previous=54 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromgb3.wav
+sw_previous=54 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromgb3.wav
+sw_previous=54 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromgb3.wav
+sw_previous=54 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromgb3.wav
+sw_previous=54 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromgb3.wav
+sw_previous=54 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromgb3.wav
+sw_previous=54 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromgb3.wav
+sw_previous=54 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromgb3.wav
+sw_previous=54 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromgb3.wav
+sw_previous=54 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromgb3.wav
+sw_previous=54 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromgb3.wav
+sw_previous=54 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromgb3.wav
+sw_previous=54 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromgb3.wav
+sw_previous=54 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromgb3.wav
+sw_previous=54 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromg3.wav
+sw_previous=54 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromab3.wav
+sw_previous=54 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=54 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=54 key=70
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromg3.wav
+sw_previous=55 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromg3.wav
+sw_previous=55 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromg3.wav
+sw_previous=55 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromg3.wav
+sw_previous=55 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromg3.wav
+sw_previous=55 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromg3.wav
+sw_previous=55 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromg3.wav
+sw_previous=55 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromg3.wav
+sw_previous=55 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromg3.wav
+sw_previous=55 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromg3.wav
+sw_previous=55 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromg3.wav
+sw_previous=55 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromg3.wav
+sw_previous=55 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromg3.wav
+sw_previous=55 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromg3.wav
+sw_previous=55 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromg3.wav
+sw_previous=55 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromg3.wav
+sw_previous=55 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromg3.wav
+sw_previous=55 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromab3.wav
+sw_previous=55 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=55 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=55 key=70
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromab3.wav
+sw_previous=56 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromab3.wav
+sw_previous=56 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromab3.wav
+sw_previous=56 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromab3.wav
+sw_previous=56 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromab3.wav
+sw_previous=56 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromab3.wav
+sw_previous=56 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromab3.wav
+sw_previous=56 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromab3.wav
+sw_previous=56 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromab3.wav
+sw_previous=56 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromab3.wav
+sw_previous=56 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromab3.wav
+sw_previous=56 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromab3.wav
+sw_previous=56 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromab3.wav
+sw_previous=56 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromab3.wav
+sw_previous=56 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromab3.wav
+sw_previous=56 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromab3.wav
+sw_previous=56 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromab3.wav
+sw_previous=56 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromab3.wav
+sw_previous=56 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=56 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=56 key=70
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_froma3.wav
+sw_previous=57 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_froma3.wav
+sw_previous=57 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_froma3.wav
+sw_previous=57 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_froma3.wav
+sw_previous=57 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_froma3.wav
+sw_previous=57 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_froma3.wav
+sw_previous=57 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_froma3.wav
+sw_previous=57 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_froma3.wav
+sw_previous=57 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_froma3.wav
+sw_previous=57 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_froma3.wav
+sw_previous=57 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_froma3.wav
+sw_previous=57 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_froma3.wav
+sw_previous=57 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_froma3.wav
+sw_previous=57 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_froma3.wav
+sw_previous=57 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_froma3.wav
+sw_previous=57 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_froma3.wav
+sw_previous=57 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_froma3.wav
+sw_previous=57 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_froma3.wav
+sw_previous=57 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_froma3.wav
+sw_previous=57 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=57 key=70
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_frombb3.wav
+sw_previous=58 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_frombb3.wav
+sw_previous=58 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frombb3.wav
+sw_previous=58 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_frombb3.wav
+sw_previous=58 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_frombb3.wav
+sw_previous=58 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_frombb3.wav
+sw_previous=58 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_frombb3.wav
+sw_previous=58 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_frombb3.wav
+sw_previous=58 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_frombb3.wav
+sw_previous=58 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_frombb3.wav
+sw_previous=58 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_frombb3.wav
+sw_previous=58 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_frombb3.wav
+sw_previous=58 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_frombb3.wav
+sw_previous=58 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_frombb3.wav
+sw_previous=58 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_frombb3.wav
+sw_previous=58 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_frombb3.wav
+sw_previous=58 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_frombb3.wav
+sw_previous=58 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_frombb3.wav
+sw_previous=58 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_frombb3.wav
+sw_previous=58 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frombb3.wav
+sw_previous=58 key=70
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromb3.wav
+sw_previous=59 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromb3.wav
+sw_previous=59 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromb3.wav
+sw_previous=59 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromb3.wav
+sw_previous=59 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromb3.wav
+sw_previous=59 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromb3.wav
+sw_previous=59 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromb3.wav
+sw_previous=59 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromb3.wav
+sw_previous=59 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromb3.wav
+sw_previous=59 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromb3.wav
+sw_previous=59 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromb3.wav
+sw_previous=59 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromb3.wav
+sw_previous=59 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromb3.wav
+sw_previous=59 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromb3.wav
+sw_previous=59 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromb3.wav
+sw_previous=59 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromb3.wav
+sw_previous=59 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromb3.wav
+sw_previous=59 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromb3.wav
+sw_previous=59 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromb3.wav
+sw_previous=59 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromb3.wav
+sw_previous=59 key=70
+
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromc4.wav
+sw_previous=60 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromc4.wav
+sw_previous=60 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromc4.wav
+sw_previous=60 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromc4.wav
+sw_previous=60 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromc4.wav
+sw_previous=60 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromc4.wav
+sw_previous=60 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromc4.wav
+sw_previous=60 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromc4.wav
+sw_previous=60 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromc4.wav
+sw_previous=60 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromc4.wav
+sw_previous=60 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromc4.wav
+sw_previous=60 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromc4.wav
+sw_previous=60 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromc4.wav
+sw_previous=60 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromc4.wav
+sw_previous=60 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromc4.wav
+sw_previous=60 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromc4.wav
+sw_previous=60 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromc4.wav
+sw_previous=60 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromc4.wav
+sw_previous=60 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromc4.wav
+sw_previous=60 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromc4.wav
+sw_previous=60 key=70
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromdb4.wav
+sw_previous=61 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromdb4.wav
+sw_previous=61 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromdb4.wav
+sw_previous=61 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromdb4.wav
+sw_previous=61 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromdb4.wav
+sw_previous=61 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromdb4.wav
+sw_previous=61 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromdb4.wav
+sw_previous=61 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromdb4.wav
+sw_previous=61 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromdb4.wav
+sw_previous=61 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromdb4.wav
+sw_previous=61 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromdb4.wav
+sw_previous=61 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromdb4.wav
+sw_previous=61 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromdb4.wav
+sw_previous=61 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromdb4.wav
+sw_previous=61 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromdb4.wav
+sw_previous=61 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromdb4.wav
+sw_previous=61 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromdb4.wav
+sw_previous=61 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromdb4.wav
+sw_previous=61 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromdb4.wav
+sw_previous=61 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromdb4.wav
+sw_previous=61 key=70
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=62 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromd4.wav
+sw_previous=62 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromd4.wav
+sw_previous=62 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromd4.wav
+sw_previous=62 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromd4.wav
+sw_previous=62 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromd4.wav
+sw_previous=62 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromd4.wav
+sw_previous=62 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromd4.wav
+sw_previous=62 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromd4.wav
+sw_previous=62 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromd4.wav
+sw_previous=62 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromd4.wav
+sw_previous=62 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromd4.wav
+sw_previous=62 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromd4.wav
+sw_previous=62 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromd4.wav
+sw_previous=62 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromd4.wav
+sw_previous=62 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromd4.wav
+sw_previous=62 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromd4.wav
+sw_previous=62 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromd4.wav
+sw_previous=62 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromd4.wav
+sw_previous=62 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromd4.wav
+sw_previous=62 key=70
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=63 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=63 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_fromeb4.wav
+sw_previous=63 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromeb4.wav
+sw_previous=63 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromeb4.wav
+sw_previous=63 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromeb4.wav
+sw_previous=63 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromeb4.wav
+sw_previous=63 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromeb4.wav
+sw_previous=63 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromeb4.wav
+sw_previous=63 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromeb4.wav
+sw_previous=63 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromeb4.wav
+sw_previous=63 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromeb4.wav
+sw_previous=63 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromeb4.wav
+sw_previous=63 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromeb4.wav
+sw_previous=63 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromeb4.wav
+sw_previous=63 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromeb4.wav
+sw_previous=63 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromeb4.wav
+sw_previous=63 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromeb4.wav
+sw_previous=63 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromeb4.wav
+sw_previous=63 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromeb4.wav
+sw_previous=63 key=70
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=64 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=64 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frome4.wav
+sw_previous=64 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_frome4.wav
+sw_previous=64 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_frome4.wav
+sw_previous=64 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_frome4.wav
+sw_previous=64 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_frome4.wav
+sw_previous=64 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_frome4.wav
+sw_previous=64 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_frome4.wav
+sw_previous=64 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_frome4.wav
+sw_previous=64 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_frome4.wav
+sw_previous=64 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_frome4.wav
+sw_previous=64 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_frome4.wav
+sw_previous=64 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_frome4.wav
+sw_previous=64 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_frome4.wav
+sw_previous=64 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_frome4.wav
+sw_previous=64 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_frome4.wav
+sw_previous=64 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_frome4.wav
+sw_previous=64 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_frome4.wav
+sw_previous=64 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_frome4.wav
+sw_previous=64 key=70
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=65 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=65 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frome4.wav
+sw_previous=65 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromf4.wav
+sw_previous=65 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromf4.wav
+sw_previous=65 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromf4.wav
+sw_previous=65 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromf4.wav
+sw_previous=65 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromf4.wav
+sw_previous=65 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromf4.wav
+sw_previous=65 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromf4.wav
+sw_previous=65 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromf4.wav
+sw_previous=65 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromf4.wav
+sw_previous=65 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromf4.wav
+sw_previous=65 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromf4.wav
+sw_previous=65 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromf4.wav
+sw_previous=65 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromf4.wav
+sw_previous=65 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromf4.wav
+sw_previous=65 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromf4.wav
+sw_previous=65 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromf4.wav
+sw_previous=65 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromf4.wav
+sw_previous=65 key=70
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=66 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=66 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frome4.wav
+sw_previous=66 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromf4.wav
+sw_previous=66 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromgb4.wav
+sw_previous=66 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromgb4.wav
+sw_previous=66 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromgb4.wav
+sw_previous=66 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromgb4.wav
+sw_previous=66 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromgb4.wav
+sw_previous=66 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromgb4.wav
+sw_previous=66 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromgb4.wav
+sw_previous=66 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromgb4.wav
+sw_previous=66 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromgb4.wav
+sw_previous=66 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromgb4.wav
+sw_previous=66 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromgb4.wav
+sw_previous=66 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromgb4.wav
+sw_previous=66 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromgb4.wav
+sw_previous=66 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromgb4.wav
+sw_previous=66 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromgb4.wav
+sw_previous=66 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromgb4.wav
+sw_previous=66 key=70
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=67 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=67 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frome4.wav
+sw_previous=67 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromf4.wav
+sw_previous=67 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromgb4.wav
+sw_previous=67 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromg4.wav
+sw_previous=67 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromg4.wav
+sw_previous=67 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromg4.wav
+sw_previous=67 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromg4.wav
+sw_previous=67 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromg4.wav
+sw_previous=67 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromg4.wav
+sw_previous=67 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromg4.wav
+sw_previous=67 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromg4.wav
+sw_previous=67 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromg4.wav
+sw_previous=67 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromg4.wav
+sw_previous=67 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromg4.wav
+sw_previous=67 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromg4.wav
+sw_previous=67 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_fromg4.wav
+sw_previous=67 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromg4.wav
+sw_previous=67 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromg4.wav
+sw_previous=67 key=70
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=68 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=68 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frome4.wav
+sw_previous=68 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromf4.wav
+sw_previous=68 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromgb4.wav
+sw_previous=68 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromg4.wav
+sw_previous=68 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromab4.wav
+sw_previous=68 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_fromab4.wav
+sw_previous=68 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_fromab4.wav
+sw_previous=68 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_fromab4.wav
+sw_previous=68 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_fromab4.wav
+sw_previous=68 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_fromab4.wav
+sw_previous=68 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_fromab4.wav
+sw_previous=68 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_fromab4.wav
+sw_previous=68 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_fromab4.wav
+sw_previous=68 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_fromab4.wav
+sw_previous=68 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_fromab4.wav
+sw_previous=68 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_fromab4.wav
+sw_previous=68 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_fromab4.wav
+sw_previous=68 key=69
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_fromab4.wav
+sw_previous=68 key=70
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=69 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=69 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frome4.wav
+sw_previous=69 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromf4.wav
+sw_previous=69 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromgb4.wav
+sw_previous=69 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromg4.wav
+sw_previous=69 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromab4.wav
+sw_previous=69 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_froma4.wav
+sw_previous=69 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_froma4.wav
+sw_previous=69 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_froma4.wav
+sw_previous=69 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_froma4.wav
+sw_previous=69 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_froma4.wav
+sw_previous=69 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_froma4.wav
+sw_previous=69 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_froma4.wav
+sw_previous=69 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_froma4.wav
+sw_previous=69 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_froma4.wav
+sw_previous=69 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_froma4.wav
+sw_previous=69 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_froma4.wav
+sw_previous=69 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_froma4.wav
+sw_previous=69 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb4_froma4.wav
+sw_previous=69 key=70
+
+
+
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d3_fromd4.wav
+sw_previous=70 key=50
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb3_fromeb4.wav
+sw_previous=70 key=51
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e3_frome4.wav
+sw_previous=70 key=52
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f3_fromf4.wav
+sw_previous=70 key=53
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb3_fromgb4.wav
+sw_previous=70 key=54
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g3_fromg4.wav
+sw_previous=70 key=55
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab3_fromab4.wav
+sw_previous=70 key=56
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a3_froma4.wav
+sw_previous=70 key=57
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_bb3_frombb4.wav
+sw_previous=70 key=58
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_b3_frombb4.wav
+sw_previous=70 key=59
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_c4_frombb4.wav
+sw_previous=70 key=60
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_db4_frombb4.wav
+sw_previous=70 key=61
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_d4_frombb4.wav
+sw_previous=70 key=62
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_eb4_frombb4.wav
+sw_previous=70 key=63
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_e4_frombb4.wav
+sw_previous=70 key=64
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_f4_frombb4.wav
+sw_previous=70 key=65
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_gb4_frombb4.wav
+sw_previous=70 key=66
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_g4_frombb4.wav
+sw_previous=70 key=67
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_ab4_frombb4.wav
+sw_previous=70 key=68
+
+<region>
+sample=../Samples/vowel_transition/a/vowel_a_a4_frombb4.wav
+sw_previous=70 key=69
+
+
+

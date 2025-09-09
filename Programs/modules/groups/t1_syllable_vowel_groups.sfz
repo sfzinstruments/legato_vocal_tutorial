@@ -1,0 +1,90 @@
+<group>
+sw_last=32
+sw_label=Dzi
+ampeg_delay=0.2
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_i.sfz"
+<group>
+sw_last=33
+sw_label=Dzo
+ampeg_delay=0.2
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_o.sfz"
+<group>
+sw_last=34
+sw_label=Jei
+ampeg_delay=0.2
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_i.sfz"
+<group>
+sw_last=35
+sw_label=Ku
+delay=0.03
+offset=0
+#include "modules/t1/vowel_sustain_u.sfz"
+<group>
+sw_last=36
+sw_label=Na
+ampeg_delay=0.088
+ampeg_attack=0.057
+#include "modules/t1/vowel_sustain_a.sfz"
+<group>
+sw_last=37
+sw_label=Nu
+ampeg_delay=0.088
+ampeg_attack=0.072
+#include "modules/t1/vowel_sustain_u.sfz"
+<group>
+sw_last=38
+sw_label=Si
+ampeg_delay=0.1
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_i.sfz"
+<group>
+sw_last=39
+sw_label=Ta
+ampeg_delay=0.015
+ampeg_attack=0.036
+#include "modules/t1/vowel_sustain_a.sfz"
+<group>
+sw_last=40
+sw_label=Tso
+ampeg_delay=0.1
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_o.sfz"
+<group>
+sw_last=41
+sw_label=Wo
+ampeg_delay=0.15
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_o.sfz"
+<group>
+sw_last=42
+sw_label=Wu
+ampeg_delay=0.15
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_u.sfz"
+<group>
+sw_last=43
+sw_label=Ya
+ampeg_delay=0.213
+ampeg_attack=0.222
+#include "modules/t1/vowel_sustain_a.sfz"
+<group>
+sw_last=44
+sw_label=Ye
+ampeg_delay=0.15
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_e.sfz"
+<group>
+sw_last=45
+sw_label=Yeah
+ampeg_delay=0.15
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_3.sfz"
+<group>
+sw_last=46
+sw_label=Zui
+ampeg_delay=0.4
+ampeg_attack=0.1
+#include "modules/t1/vowel_sustain_i.sfz"

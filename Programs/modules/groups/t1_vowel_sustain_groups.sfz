@@ -1,0 +1,33 @@
+<group>
+sw_last=38
+sw_label=A
+#include "modules/t1/vowel_sustain_a.sfz"
+#include "modules/t1/vowel_sustain_a_lows.sfz"
+<group>
+sw_last=39
+sw_label=3
+#include "modules/t1/vowel_sustain_3.sfz"
+<group>
+sw_last=40
+sw_label=E
+#include "modules/t1/vowel_sustain_e.sfz"
+<group>
+sw_last=41
+sw_label=I
+#include "modules/t1/vowel_sustain_i.sfz"
+<group>
+sw_last=42
+sw_label=Or
+#include "modules/t1/vowel_sustain_or.sfz"
+<group>
+sw_last=43
+sw_label=O
+#include "modules/t1/vowel_sustain_o.sfz"
+<group>
+sw_last=44
+sw_label=U
+#include "modules/t1/vowel_sustain_u.sfz"
+<group>
+sw_last=45
+sw_label=M
+#include "modules/t1/vowel_sustain_m.sfz"

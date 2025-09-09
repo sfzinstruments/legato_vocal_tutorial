@@ -1,0 +1,14 @@
+//EQ setup so dynamics affects timbre, with zero effect when mod wheel is in the middle
+eq1_freq=1500
+eq1_bw=2
+eq1_gain=-2
+eq1_gain_oncc1=4
+eq1_freq_oncc1=1000
+eq2_bw=3 //Wide and gentle high band
+eq2_freq=5000
+eq2_gain=-1
+eq2_gain_oncc1=2
+eq3_freq=150 //And we boost lows with low mod wheel, cut with high mod wheel to make quiet notes warmer
+eq3_bw=2
+eq3_gain=2.5
+eq3_gain_oncc1=-5

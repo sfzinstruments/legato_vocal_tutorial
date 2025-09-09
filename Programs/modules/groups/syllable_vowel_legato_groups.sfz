@@ -1,0 +1,60 @@
+<group>
+sw_last=32
+sw_label=Dzi
+#include "modules/vowel_sustain_i.sfz"
+<group>
+sw_last=33
+sw_label=Dzo
+#include "modules/vowel_sustain_o.sfz"
+<group>
+sw_last=34
+sw_label=Jei
+#include "modules/vowel_sustain_i.sfz"
+<group>
+sw_last=35
+sw_label=Ku
+#include "modules/vowel_sustain_u.sfz"
+<group>
+sw_last=36
+sw_label=Na
+#include "modules/vowel_sustain_a.sfz"
+<group>
+sw_last=37
+sw_label=Nu
+#include "modules/vowel_sustain_u.sfz"
+<group>
+sw_last=38
+sw_label=Si
+#include "modules/vowel_sustain_i.sfz"
+<group>
+sw_last=39
+sw_label=Ta
+#include "modules/vowel_sustain_a.sfz"
+<group>
+sw_last=40
+sw_label=Tso
+#include "modules/vowel_sustain_o.sfz"
+<group>
+sw_last=41
+sw_label=Wo
+#include "modules/vowel_sustain_o.sfz"
+<group>
+sw_last=42
+sw_label=Wu
+#include "modules/vowel_sustain_u.sfz"
+<group>
+sw_last=43
+sw_label=Ya
+#include "modules/vowel_sustain_a.sfz"
+<group>
+sw_last=44
+sw_label=Ye
+#include "modules/vowel_sustain_e.sfz"
+<group>
+sw_last=45
+sw_label=Yeah
+#include "modules/vowel_sustain_3.sfz"
+<group>
+sw_last=46
+sw_label=Zui
+#include "modules/vowel_sustain_i.sfz"

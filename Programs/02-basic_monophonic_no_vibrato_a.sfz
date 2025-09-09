@@ -1,0 +1,26 @@
+//Very very basic patch - polyphonic vowel sustains
+//No start samples or vibrato or anythin like that
+//Only dynamics, width and release time controls
+
+<control>
+label_cc1=Dynamics
+label_cc31=Width
+label_cc105=Mono Switch
+label_cc107=Release
+set_cc1=63.5
+set_cc31=127
+set_cc107=13
+
+<global>
+#include "modules/controls/common.sfz"
+#include "modules/controls/dyn_eq.sfz"
+
+
+//Center voice, poly
+<master>
+group=1
+off_by=1
+#include "modules/vowel_sustain_a.sfz"
+#include "modules/vowel_sustain_a_lows.sfz"
+
+#include "modules/controls/curves.sfz"

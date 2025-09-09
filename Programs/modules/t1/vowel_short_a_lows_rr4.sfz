@@ -1,0 +1,11 @@
+<region>
+sample=../Samples/vowel_short/a/vowel_a_db3_short_rr4.wav
+lokey=48
+hikey=48
+pitch_keycenter=49
+
+<region>
+sample=../Samples/vowel_short/a/vowel_a_d3_short_rr4.wav
+lokey=49
+hikey=49
+pitch_keycenter=50

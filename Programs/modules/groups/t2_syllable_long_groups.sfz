@@ -1,0 +1,99 @@
+<group>
+sw_last=32
+sw_label=Dzi
+ampeg_hold=0.2
+ampeg_decay=0.2
+#include "modules/t2/syllable_dzi.sfz"
+<group>
+sw_last=33
+sw_label=Dzo
+volume=-2
+ampeg_hold=0.2
+ampeg_decay=0.2
+#include "modules/t2/syllable_dzo.sfz"
+<group>
+sw_last=34
+sw_label=Jei
+ampeg_hold=0.2
+ampeg_decay=0.2
+volume=-2
+#include "modules/t2/syllable_jei.sfz"
+<group>
+sw_last=35
+sw_label=Ku
+ampeg_hold=0.03
+ampeg_decay=0.01
+#include "modules/t2/syllable_ku.sfz"
+<group>
+sw_last=36
+sw_label=Na
+ampeg_hold=0.082
+ampeg_decay=0.087
+volume=-3
+#include "modules/t2/syllable_na.sfz"
+<group>
+sw_last=37
+sw_label=Nu
+ampeg_hold=0.082
+ampeg_decay=0.237
+volume=-3
+#include "modules/t2/syllable_nu.sfz"
+<group>
+sw_last=38
+sw_label=Si
+ampeg_hold=0.1
+ampeg_decay=0.2
+volume=-3
+#include "modules/t2/syllable_si.sfz"
+<group>
+sw_last=39
+sw_label=Ta
+ampeg_hold=0.027
+ampeg_decay=0.03
+volume=-3
+#include "modules/t2/syllable_ta.sfz"
+<group>
+sw_last=40
+sw_label=Tso
+ampeg_hold=0.1
+ampeg_decay=0.2
+#include "modules/t2/syllable_tso.sfz"
+<group>
+sw_last=41
+sw_label=Wo
+ampeg_hold=0.15
+ampeg_decay=0.2
+volume=-2
+#include "modules/t2/syllable_wo.sfz"
+<group>
+sw_last=42
+sw_label=Wu
+ampeg_hold=0.15
+ampeg_decay=0.2
+volume=-2
+#include "modules/t2/syllable_wu.sfz"
+<group>
+sw_last=43
+sw_label=Ya
+ampeg_hold=0.222
+ampeg_decay=0.3
+volume=-4
+#include "modules/t2/syllable_ya.sfz"
+<group>
+sw_last=44
+sw_label=Ye
+ampeg_hold=0.15
+ampeg_decay=0.2
+#include "modules/t2/syllable_ye.sfz"
+<group>
+sw_last=45
+sw_label=Yeah
+ampeg_hold=0.15
+ampeg_decay=0.2
+#include "modules/t2/syllable_yeah.sfz"
+<group>
+sw_last=46
+sw_label=Zui
+ampeg_hold=0.4
+ampeg_decay=0.2
+#include "modules/t2/syllable_zui.sfz"

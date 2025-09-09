@@ -1,0 +1,75 @@
+<group>
+sw_last=32
+sw_label=Dzi
+#include "modules/t2/syllable_dzi.sfz"
+#include "modules/t2/syllable_dzi_highs.sfz"
+<group>
+sw_last=33
+sw_label=Dzo
+#include "modules/t2/syllable_dzo.sfz"
+#include "modules/t2/syllable_dzo_highs.sfz"
+<group>
+sw_last=34
+sw_label=Jei
+#include "modules/t2/syllable_jei.sfz"
+#include "modules/t2/syllable_jei_highs.sfz"
+<group>
+sw_last=35
+sw_label=Ku
+#include "modules/t2/syllable_ku.sfz"
+#include "modules/t2/syllable_ku_highs.sfz"
+<group>
+sw_last=36
+sw_label=Na
+#include "modules/t2/syllable_na.sfz"
+#include "modules/t2/syllable_na_highs.sfz"
+<group>
+sw_last=37
+sw_label=Nu
+#include "modules/t2/syllable_nu.sfz"
+#include "modules/t2/syllable_nu_highs.sfz"
+<group>
+sw_last=38
+sw_label=Si
+#include "modules/t2/syllable_si.sfz"
+#include "modules/t2/syllable_si_highs.sfz"
+<group>
+sw_last=39
+sw_label=Ta
+#include "modules/t2/syllable_ta.sfz"
+#include "modules/t2/syllable_ta_highs.sfz"
+<group>
+sw_last=40
+sw_label=Tso
+#include "modules/t2/syllable_tso.sfz"
+#include "modules/t2/syllable_tso_highs.sfz"
+<group>
+sw_last=41
+sw_label=Wo
+#include "modules/t2/syllable_wo.sfz"
+#include "modules/t2/syllable_wo_highs.sfz"
+<group>
+sw_last=42
+sw_label=Wu
+#include "modules/t2/syllable_wu.sfz"
+#include "modules/t2/syllable_wu_highs.sfz"
+<group>
+sw_last=43
+sw_label=Ya
+#include "modules/t2/syllable_ya.sfz"
+#include "modules/t2/syllable_ya_highs.sfz"
+<group>
+sw_last=44
+sw_label=Ye
+#include "modules/t2/syllable_ye.sfz"
+#include "modules/t2/syllable_ye_highs.sfz"
+<group>
+sw_last=45
+sw_label=Yeah
+#include "modules/t2/syllable_yeah.sfz"
+#include "modules/t2/syllable_yeah_highs.sfz"
+<group>
+sw_last=46
+sw_label=Zui
+#include "modules/t2/syllable_zui.sfz"
+#include "modules/t2/syllable_zui_highs.sfz"

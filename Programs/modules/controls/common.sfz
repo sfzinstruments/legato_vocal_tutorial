@@ -1,0 +1,11 @@
+off_mode=time
+off_time=0.4
+ampeg_attack=0.03
+ampeg_release=0.2
+ampeg_release_oncc107=1
+amp_veltrack=0
+amplitude_oncc1=100
+amplitude_smoothcc1=120
+amplitude_curvecc1=10
+width=0
+width_oncc31=100

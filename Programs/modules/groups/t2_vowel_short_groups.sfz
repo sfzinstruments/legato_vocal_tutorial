@@ -1,0 +1,199 @@
+<group>
+seq_length=4
+seq_position=1
+sw_last=38
+sw_label=A
+#include "modules/t2/vowel_short_a_rr1.sfz"
+#include "modules/t2/vowel_short_a_lows_rr1.sfz"
+<group>
+seq_length=4
+seq_position=1
+sw_last=39
+sw_label=3
+#include "modules/t2/vowel_short_3_rr1.sfz"
+<group>
+seq_length=4
+seq_position=1
+sw_last=40
+sw_label=E
+#include "modules/t2/vowel_short_e_rr1.sfz"
+<group>
+seq_length=4
+seq_position=1
+sw_last=41
+sw_label=I
+#include "modules/t2/vowel_short_i_rr1.sfz"
+<group>
+seq_length=4
+seq_position=1
+sw_last=42
+sw_label=Or
+#include "modules/t2/vowel_short_or_rr1.sfz"
+<group>
+seq_length=4
+seq_position=1
+sw_last=43
+sw_label=O
+#include "modules/t2/vowel_short_o_rr1.sfz"
+<group>
+seq_length=4
+seq_position=1
+sw_last=44
+sw_label=U
+#include "modules/t2/vowel_short_u_rr1.sfz"
+<group>
+seq_length=4
+seq_position=1
+sw_last=45
+sw_label=M
+#include "modules/t2/vowel_short_m_rr1.sfz"
+
+<group>
+seq_length=4
+seq_position=2
+sw_last=38
+sw_label=A
+#include "modules/t2/vowel_short_a_rr2.sfz"
+#include "modules/t2/vowel_short_a_lows_rr2.sfz"
+<group>
+seq_length=4
+seq_position=2
+sw_last=39
+sw_label=3
+#include "modules/t2/vowel_short_3_rr2.sfz"
+<group>
+seq_length=4
+seq_position=2
+sw_last=40
+sw_label=E
+#include "modules/t2/vowel_short_e_rr2.sfz"
+<group>
+seq_length=4
+seq_position=2
+sw_last=41
+sw_label=I
+#include "modules/t2/vowel_short_i_rr2.sfz"
+<group>
+seq_length=4
+seq_position=2
+sw_last=42
+sw_label=Or
+#include "modules/t2/vowel_short_or_rr2.sfz"
+<group>
+seq_length=4
+seq_position=2
+sw_last=43
+sw_label=O
+#include "modules/t2/vowel_short_o_rr2.sfz"
+<group>
+seq_length=4
+seq_position=2
+sw_last=44
+sw_label=U
+#include "modules/t2/vowel_short_u_rr2.sfz"
+<group>
+seq_length=4
+seq_position=2
+sw_last=45
+sw_label=M
+#include "modules/t2/vowel_short_m_rr2.sfz"
+
+<group>
+seq_length=4
+seq_position=3
+sw_last=38
+sw_label=A
+#include "modules/t2/vowel_short_a_rr3.sfz"
+#include "modules/t2/vowel_short_a_lows_rr3.sfz"
+<group>
+seq_length=4
+seq_position=3
+sw_last=39
+sw_label=3
+#include "modules/t2/vowel_short_3_rr3.sfz"
+<group>
+seq_length=4
+seq_position=3
+sw_last=40
+sw_label=E
+#include "modules/t2/vowel_short_e_rr3.sfz"
+<group>
+seq_length=4
+seq_position=3
+sw_last=41
+sw_label=I
+#include "modules/t2/vowel_short_i_rr3.sfz"
+<group>
+seq_length=4
+seq_position=3
+sw_last=42
+sw_label=Or
+#include "modules/t2/vowel_short_or_rr3.sfz"
+<group>
+seq_length=4
+seq_position=3
+sw_last=43
+sw_label=O
+#include "modules/t2/vowel_short_o_rr3.sfz"
+<group>
+seq_length=4
+seq_position=3
+sw_last=44
+sw_label=U
+#include "modules/t2/vowel_short_u_rr3.sfz"
+<group>
+seq_length=4
+seq_position=3
+sw_last=45
+sw_label=M
+#include "modules/t2/vowel_short_m_rr3.sfz"
+
+<group>
+seq_length=4
+seq_position=4
+sw_last=38
+sw_label=A
+#include "modules/t2/vowel_short_a_rr4.sfz"
+#include "modules/t2/vowel_short_a_lows_rr4.sfz"
+<group>
+seq_length=4
+seq_position=4
+sw_last=39
+sw_label=3
+#include "modules/t2/vowel_short_3_rr4.sfz"
+<group>
+seq_length=4
+seq_position=4
+sw_last=40
+sw_label=E
+#include "modules/t2/vowel_short_e_rr4.sfz"
+<group>
+seq_length=4
+seq_position=4
+sw_last=41
+sw_label=I
+#include "modules/t2/vowel_short_i_rr4.sfz"
+<group>
+seq_length=4
+seq_position=4
+sw_last=42
+sw_label=Or
+#include "modules/t2/vowel_short_or_rr4.sfz"
+<group>
+seq_length=4
+seq_position=4
+sw_last=43
+sw_label=O
+#include "modules/t2/vowel_short_o_rr4.sfz"
+<group>
+seq_length=4
+seq_position=4
+sw_last=44
+sw_label=U
+#include "modules/t2/vowel_short_u_rr4.sfz"
+<group>
+seq_length=4
+seq_position=4
+sw_last=45
+sw_label=M
+#include "modules/t2/vowel_short_m_rr4.sfz"
