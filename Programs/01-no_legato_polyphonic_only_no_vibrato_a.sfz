@@ -15,7 +15,7 @@ set_cc107=13
 #include "modules/controls/dyn_eq.sfz"
 
 
-//Center voice, poly
+//A vowel, poly
 <master>
 #include "modules/vowel_sustain_a.sfz"
 #include "modules/vowel_sustain_a_lows.sfz"
