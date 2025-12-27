@@ -1,5 +1,5 @@
-//Very very basic patch - polyphonic vowel sustains
-//No start samples or vibrato or anythin like that
+//Very very basic patch - monophonic vowel sustains
+//No start samples or vibrato or anythign like that
 //Only dynamics, width and release time controls
 
 <control>
@@ -16,7 +16,7 @@ set_cc107=13
 #include "modules/controls/dyn_eq.sfz"
 
 
-//Center voice, poly
+//Single voice, mono
 <master>
 group=1
 off_by=1
